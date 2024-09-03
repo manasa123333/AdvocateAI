@@ -13,3 +13,7 @@ To run this project, ensure you have Python installed, and then install the nece
 
 ```bash
 pip install transformers gradio huggingface_hub
+
+## Demo
+
+[AdvocateAI](https://huggingface.co/spaces/Manasa1/AdvocateAI)
