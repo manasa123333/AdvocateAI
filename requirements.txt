@@ -1,0 +1,14 @@
+langchain
+langchain-community
+unstructured
+pi-heif
+unstructured[local-inference]
+faiss-cpu
+transformers
+chainlit
+nltk
+tiktoken
+huggingface_hub
+pypdf
+pdfminer.six
+sentence-transformers
